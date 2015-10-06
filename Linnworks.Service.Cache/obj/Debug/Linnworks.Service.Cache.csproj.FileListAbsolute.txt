@@ -1,0 +1,11 @@
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\Linnworks.Service.Cache.dll.config
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\Linnworks.Service.Cache.dll
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\Linnworks.Service.Cache.pdb
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\Linnworks.Cache.dll
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.dll
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\Linnworks.Cache.pdb
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.pdb
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.xml
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.csprojResolveAssemblyReference.cache
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.dll
+E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.pdb

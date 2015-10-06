@@ -1,0 +1,6 @@
+E:\Projects\lnnwrkswbstr\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.exe.config
+E:\Projects\lnnwrkswbstr\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.exe
+E:\Projects\lnnwrkswbstr\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.pdb
+E:\Projects\lnnwrkswbstr\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.csprojResolveAssemblyReference.cache
+E:\Projects\lnnwrkswbstr\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.exe
+E:\Projects\lnnwrkswbstr\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.pdb
