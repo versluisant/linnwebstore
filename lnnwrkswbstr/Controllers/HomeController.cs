@@ -25,14 +25,14 @@ namespace lnnwrkswbstr.Controllers
                 new KeyValuePair<string, DateTime>("10.25.316.45", current.AddSeconds(45)),
                 new KeyValuePair<string, DateTime>("10.25.316.50", current.AddSeconds(50))
             };
-            repo.Connect();
-            repo.AddIps(blakListIps);
+            //repo.Connect();
+            //repo.AddIps(blakListIps);
 
-            for (int i = 0; i < 20; i++ )
-            {
-                var keys = repo.GetKeys().ToList();
-                var k = 1;
-            }
+            //for (int i = 0; i < 20; i++ )
+            //{
+            //    var keys = repo.GetKeys().ToList();
+            //    var k = 1;
+            //}
 
                 return View();
         }

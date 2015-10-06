@@ -3,3 +3,7 @@ E:\Projects\lnnwrkswbstr\Linnworks.DAL\bin\Debug\Linnworks.DAL.pdb
 E:\Projects\lnnwrkswbstr\Linnworks.DAL\obj\Debug\Linnworks.DAL.csprojResolveAssemblyReference.cache
 E:\Projects\lnnwrkswbstr\Linnworks.DAL\obj\Debug\Linnworks.DAL.dll
 E:\Projects\lnnwrkswbstr\Linnworks.DAL\obj\Debug\Linnworks.DAL.pdb
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.DAL\bin\Debug\Linnworks.DAL.dll
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.DAL\bin\Debug\Linnworks.DAL.pdb
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.DAL\obj\Debug\Linnworks.DAL.dll
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.DAL\obj\Debug\Linnworks.DAL.pdb

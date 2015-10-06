@@ -4,3 +4,9 @@ E:\Projects\lnnwrkswbstr\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.pdb
 E:\Projects\lnnwrkswbstr\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.csprojResolveAssemblyReference.cache
 E:\Projects\lnnwrkswbstr\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.exe
 E:\Projects\lnnwrkswbstr\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.pdb
+C:\linrepo\linnwebstore\linnwebstore\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.exe.config
+C:\linrepo\linnwebstore\linnwebstore\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.exe
+C:\linrepo\linnwebstore\linnwebstore\Redis.WIndowsService\bin\Debug\Redis.WIndowsService.pdb
+C:\linrepo\linnwebstore\linnwebstore\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.csprojResolveAssemblyReference.cache
+C:\linrepo\linnwebstore\linnwebstore\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.exe
+C:\linrepo\linnwebstore\linnwebstore\Redis.WIndowsService\obj\Debug\Redis.WIndowsService.pdb
