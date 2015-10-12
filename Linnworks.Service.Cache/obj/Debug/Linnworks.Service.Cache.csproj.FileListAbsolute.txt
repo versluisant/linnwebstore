@@ -9,3 +9,14 @@ E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.x
 E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.csprojResolveAssemblyReference.cache
 E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.dll
 E:\Projects\lnnwrkswbstr\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.pdb
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\Linnworks.Service.Cache.dll.config
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\Linnworks.Service.Cache.dll
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\Linnworks.Service.Cache.pdb
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\Linnworks.Cache.dll
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.dll
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\Linnworks.Cache.pdb
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.pdb
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\bin\Debug\StackExchange.Redis.xml
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.csprojResolveAssemblyReference.cache
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.dll
+C:\linrepo\linnwebstore\linnwebstore\Linnworks.Service.Cache\obj\Debug\Linnworks.Service.Cache.pdb
