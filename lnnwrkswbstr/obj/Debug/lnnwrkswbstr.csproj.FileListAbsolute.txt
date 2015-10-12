@@ -122,7 +122,6 @@ C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\System.Web.WebPages.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\System.Web.WebPages.Deployment.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\System.Web.WebPages.Razor.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\Antlr3.Runtime.pdb
-C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\Newtonsoft.Json.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\EntityFramework.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\EntityFramework.SqlServer.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\Microsoft.AspNet.Identity.Core.xml
@@ -142,3 +141,4 @@ C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\StackExchange.Redis.xml
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\obj\Debug\lnnwrkswbstr.csprojResolveAssemblyReference.cache
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\obj\Debug\lnnwrkswbstr.dll
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\obj\Debug\lnnwrkswbstr.pdb
+C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\LinnworksAPI.dll

@@ -19,6 +19,7 @@ namespace lnnwrkswbstr
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AutofacConfig.Register();
+            LinnworksAuth.Authorize();
         }
     }
 }
