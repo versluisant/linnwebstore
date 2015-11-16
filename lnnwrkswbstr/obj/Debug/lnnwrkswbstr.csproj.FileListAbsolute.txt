@@ -142,3 +142,5 @@ C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\obj\Debug\lnnwrkswbstr.csprojR
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\obj\Debug\lnnwrkswbstr.dll
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\obj\Debug\lnnwrkswbstr.pdb
 C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\LinnworksAPI.dll
+C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\System.Web.Http.WebHost.dll
+C:\linrepo\linnwebstore\linnwebstore\lnnwrkswbstr\bin\System.Web.Http.WebHost.xml

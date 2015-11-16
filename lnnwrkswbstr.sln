@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lnnwrkswbstr", "lnnwrkswbstr\lnnwrkswbstr.csproj", "{2C18A0EC-7F09-48C3-8EDA-A5F35A46B432}"
 EndProject
@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis.WIndowsService", "Red
 	ProjectSection(ProjectDependencies) = postProject
 		{7DD81A9C-593B-4C11-B07B-508D3EED7AF3} = {7DD81A9C-593B-4C11-B07B-508D3EED7AF3}
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linn.admin", "linn.admin\linn.admin.csproj", "{07630272-FA3C-47F5-87ED-BD8405B8E12C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,6 +44,10 @@ Global
 		{5AA832D6-FF84-4417-9289-54D9D560B6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5AA832D6-FF84-4417-9289-54D9D560B6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5AA832D6-FF84-4417-9289-54D9D560B6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07630272-FA3C-47F5-87ED-BD8405B8E12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07630272-FA3C-47F5-87ED-BD8405B8E12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07630272-FA3C-47F5-87ED-BD8405B8E12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07630272-FA3C-47F5-87ED-BD8405B8E12C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

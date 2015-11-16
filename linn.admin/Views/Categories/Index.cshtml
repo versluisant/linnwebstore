@@ -1,0 +1,24 @@
+﻿@model linn.admin.ViewModels.CategoriesViewModel
+@{
+    ViewBag.Title = "Categories";
+}
+
+<h2>Categories</h2>
+
+<script src="//cdn.ckeditor.com/4.5.5/standard/ckeditor.js"></script>
+
+@foreach (var category in Model.Categories)
+{
+    
+}
+
+<textarea name="editor1" id="editor1" rows="10" cols="80">
+    This is my textarea to be replaced with CKEditor.
+</textarea>
+
+<script>
+                // Replace the <textarea id="editor1"> with a CKEditor
+                // instance, using default configuration.
+                CKEDITOR.replace( 'editor1' );
+</script>
+
